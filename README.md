@@ -1,1 +1,2 @@
 # PowerBI-Pizza-Sales-Dashboard
+This Power BI project presents an interactive dashboard for analyzing pizza sales, leveraging key metrics like revenue, order trends, and category performance. Connected to an SQL database via SSMS, the dashboard features slicers and navigation buttons for seamless exploration, providing actionable insights into top-performing pizzas, busiest periods, and sales patterns.
